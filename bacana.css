@@ -1,0 +1,52 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(68.15deg, #1c0032 16.62%, #1c0032 85.61%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+    background-image: url('https://img.freepik.com/vetores-premium/floresta-de-inverno-e-paisagem-natural-de-montanhas_685953-121.jpg?w=996'); /* Substitua 'caminho/para/sua/imagem.jpg' pelo caminho da sua imagem */
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    
+}
+
+h1 {
+    font-size: 45px;
+    color: #fff;
+}
+
+input[type="number"] {
+    width: 150px;
+    height: 20px;
+
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+
+}
+.bloco {
+    background-color: #c09fe4;
+    padding: 20px;
+    border-radius: 20px;
+    
+    text-align: center;
+    width: 600px;
+    box-shadow: 0 0 200px rgba(100, 52, 126, 0.5)
+    
+    
+}
